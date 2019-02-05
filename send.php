@@ -1,6 +1,6 @@
 <?php 
 $account = "082259905863"; // nomor ovo
-$access = "b2505d796100008ae2e52daaf3079da2db3aff0f"; // access ovo
+$access = "531e1e61a3dd11560abbe1644b2430735c993f91"; // access ovo
 $amount = 100; // jumlah tf (bisa rp1)
 $transfer_to = "085298691292"; // nomor ovo tumbal
 
